@@ -1,0 +1,6 @@
+{
+  "name": "AXON Pilot AI E-commerce Dashboard",
+  "description": "AI-powered E-commerce command center module in AXON Pilot with real-time sales, order fulfillment, inventory, marketing, risk monitoring, automated workflows, and Gemini AI strategic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
